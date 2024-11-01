@@ -39,8 +39,9 @@ out/
 .hprof
 
 ### dotenv ###
+## note: these need to be actually provided here as they are just the test ones
 #.env
-.envrc
+#.envrc
 
 ### misc ###
 .DS_Store
